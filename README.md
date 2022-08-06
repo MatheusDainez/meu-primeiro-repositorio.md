@@ -5,4 +5,21 @@
 
 ### Meu mini curriculum
 
-tenho formação tecnica em mecanica de manutenção industrial,<br> estou fazendo uma transiçaõ de carreira para area da tecnologia, estou<br> atualmente cursando o segundo perio em analise e desenvolvimento<br> de sistemas na faculdade da unigranrio, estou estudano nesse<br> bootcamp sobre linux pela [DIO](https://www.dio.me/en), alem desse bootcamp, a linguagem<br> Python tambem, pos prentendo atuar na area de banco de dados,<br> então estou voltando meus estudos paralelos com a faculdade para<br> essa area, no atual periodo da faculdade estou aprendendo<br> desenvolvimento web, e estou cursando artefatos e funcionalidades<br> da tecnologia da informaçao na plataforma da [CISCO](https://www.netacad.com/pt-br) atraves da faculdade.
+
+
+## Formação
+
+- Ensino médio - Completo
+- Superior em Análise e desenvolvimento de sistemas -Cursando
+
+## Cursos Complementares
+
+- Informatica basica -SENAI CAXIAS
+- Introdução à programação com Python -[DIO](https://www.dio.me/en) cursando
+- Artefatos e Funcionalidades da Tecnologia da Informação -[CISCO](https://www.netacad.com/pt-br) cursando
+
+## Perfil Profissinal
+
+- Linkedin: [Matheus Dainez](https://www.linkedin.com/in/matheus-soares-362b9518b)
+
+* [Referência de Sintaxe de transcrição Markdown](https://www.markdownguide.org/basic-syntax/#lists-1) 
