@@ -1,0 +1,4 @@
+site Sintaxe python: https://docs.python.org/pt-br
+site plataforma DIO: https://dio.me/sign-up?ref=QI9ZWJ7QXK
+site sintaxe Markdown:https://www.markdownguide.org/basic-syntax/#lists-1
+site CISCO: https://www.netacad.com 
